@@ -1,0 +1,7 @@
+(:name           "STAR")
+(:repo           "taffish-org/star")
+(:author         "KaiyuanHan")
+(:version        "2.7.11b")
+(:intro          "RNA-seq aligner")
+(:dependencies)
+(:functions      "STAR")

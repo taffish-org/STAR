@@ -1,0 +1,9 @@
++TOOL:STAR
+ARGS
+    <else>
+        STAR --help
+    <main>
+        STAR ::*APP-ARGS*::
+RUN
+    <container:taf-star-v2.7.11b:ghcr.io/taffish-org/star:2.7.11b>
+        ::*MAIN*::
